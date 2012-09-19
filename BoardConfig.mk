@@ -21,6 +21,7 @@
 BOARD_SECOND_CAMERA_DEVICE := /dev/video2
 
 # Kernel Config
+TARGET_KERNEL_SOURCE := kernel/samsung/aries
 TARGET_KERNEL_CONFIG := cyanogenmod_galaxysmtd_defconfig
 
 # FM Radio
