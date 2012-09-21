@@ -16,6 +16,10 @@
 		"target_path": "kernel/samsung/aries"
 	},
 	{
+		"repository": "SuperJB-Vendor/android_vendor_samsung_aries-common",
+		"target_path": "vendor/samsung/aries-common"
+	},
+	{
 		"repository": "SuperJB-Vendor/android_vendor_samsung_galaxysmtd",
 		"target_path": "vendor/samsung/galaxysmtd"
 	}
