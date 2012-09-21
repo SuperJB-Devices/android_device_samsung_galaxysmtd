@@ -12,7 +12,7 @@
 		"target_path": "device/samsung/aries-common"
 	},
 	{
-		"repository": "SuperJB-kernel/android_kernel_samsung_aries",
+		"repository": "SuperJB-Kernel/android_kernel_samsung_aries",
 		"target_path": "kernel/samsung/aries"
 	},
 	{
